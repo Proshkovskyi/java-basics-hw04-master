@@ -1,0 +1,4 @@
+interface Payable {
+
+    void calculatePay();
+}
